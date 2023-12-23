@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igroman4ik</h1>
+<h1 align="left">Hi 👋, I'm Igroman4ik</h1>
 
 - 👨‍💻 All of my projects are available at GitHub
 
