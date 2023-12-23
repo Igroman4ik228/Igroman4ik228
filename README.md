@@ -31,11 +31,3 @@ FrontEnd Web-developer
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Igroman4ik228/Burning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=Burning&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Igroman4ik228/CutSpace" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=CutSpace&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/igroman4ik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
