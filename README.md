@@ -28,9 +28,9 @@ FrontEnd Web-developer
 
 <div width="100%" align="center"><a href="https://github.com/Igroman4ik228/Glo_Academy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=Glo_Academy&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Igroman4ik228/Kelvin" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=Kelvin&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/Igroman4ik228/Burning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=Burning&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Igroman4ik228/CutSpace" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igroman4ik228&repo=CutSpace&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
