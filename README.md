@@ -34,8 +34,5 @@ FrontEnd Web-developer
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://www.buymeacoffee.com/igroman4ik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/igroman4ik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
