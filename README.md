@@ -18,4 +18,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p>
 
 <h3 align="center">Support:</h3>
-</p align="center"><a align="center" href="https://www.buymeacoffee.com/igroman4ik"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="igroman4ik" /></a></p><br><br>
+<p align="center" ><a align="center" href="https://www.buymeacoffee.com/igroman4ik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="igroman4ik" /></a></p><br><br>
