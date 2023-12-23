@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igroman4ik</h1>
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Igroman4ik228)
+- 👨‍💻 All of my projects are available at [GitHub] (https://github.com/Igroman4ik228)
 
 - 📫 How to reach me **ni4000009@gmail.com**
 
