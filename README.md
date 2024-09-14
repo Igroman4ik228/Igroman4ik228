@@ -12,6 +12,3 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igroman4ik228&theme=dark" alt="igroman4ik228" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p>
-
-<h2 align="left">Support:</h2>
-<p align="left" ><a href="https://www.buymeacoffee.com/igroman4ik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="igroman4ik" /></a></p>
