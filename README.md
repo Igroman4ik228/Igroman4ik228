@@ -6,7 +6,7 @@
 
 - 🌐 Based in Russia
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igroman4ik228&theme=dark" alt="igroman4ik228" /></p>
+<p align="left"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igroman4ik228&theme=dark&hide_border=true" alt="GitHub Streak igroman4ik228" /></a></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p>
 
