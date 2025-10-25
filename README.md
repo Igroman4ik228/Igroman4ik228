@@ -6,14 +6,12 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  &gt;
-  &lt;
+  |
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  &gt;
-  &lt;
+  |
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
