@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Igroman4ik</h1>
+<h1 align="center">Hi 👋, I'm Igroman4ik</h1>
 
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
