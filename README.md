@@ -37,7 +37,7 @@
 
 <p align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/termius/_/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver/372823/69493E" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
