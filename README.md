@@ -7,6 +7,9 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
 </p>
 
 <p align="center">
