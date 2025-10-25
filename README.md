@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igroman4ik</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=github-dark-blue" alt="GitHub Streak" /></a>
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
