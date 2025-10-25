@@ -2,11 +2,11 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p>
 
-<p align="center">
+<p align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/white" />
 </p>
-<p align="center">
+<p align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
@@ -19,11 +19,11 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
