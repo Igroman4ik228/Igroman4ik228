@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igroman4ik</h1>
 
 <p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/white" />
-</p>
-
-<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
@@ -16,6 +11,10 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
 </p>
 
 <p align="center">
@@ -28,6 +27,13 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/linuxmint" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/fedora" />
+</p>
+
+<p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/white" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p> -->
