@@ -6,15 +6,16 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
 </p>
 
 <p align="center">
