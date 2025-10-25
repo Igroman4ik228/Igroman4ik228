@@ -4,6 +4,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 
+<img src="https://www.codewars.com/users/Igroman4ik228/badges/large" />
+
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
@@ -66,7 +68,6 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 </p>
-
 
 <!-- <h2 align="left">Social</h2>
 
