@@ -1,26 +1,34 @@
 <h1 align="center">Hi 👋, I'm Igroman4ik</h1>
 
 <p align="center">
-  &lt;
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark" alt="GitHub Streak" /></a> -->
+</p>
+
+
+<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  |
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/_/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  |
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postcss" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
-  &gt;
 </p>
 
 <p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pydantic" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
 </p>
 
@@ -39,7 +47,6 @@
   <img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igroman4ik228&show_icons=true&theme=dark&title_color=ac44c1&text_color=f5f5f5&hide_border=true&locale=en&layout=compact" alt="igroman4ik228" /></p> -->
 
 
 <p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></p>
