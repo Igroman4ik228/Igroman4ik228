@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Igroman4ik</h1>
 
 <p align="center">
-  <
+  &lt;
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  >
+  &gt;
 
-  <
+  &lt;
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  >
+  &gt;
 
-  <
+  &lt;
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gulp" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/bun/_/white" />
-  >
+  &gt;
 </p>
 
 <p align="center">
