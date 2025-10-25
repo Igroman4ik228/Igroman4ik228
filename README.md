@@ -1,10 +1,11 @@
 <h1 align="left">Hi 👋, I'm Igroman4ik</h1>
 
-<p align="left">
+<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/white" />
 </p>
-<p align="left">
+
+<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
@@ -17,11 +18,11 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 </p>
 
-<p align="left">
+<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
 </p>
 
-<p align="left">
+<p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
