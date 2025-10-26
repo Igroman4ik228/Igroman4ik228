@@ -18,8 +18,8 @@
 
 <p align="left">
   <a href="https://www.python.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=python" alt="python icon" /></a>
-  <a href="https://www.java.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=java" alt="java icon" /></a>
   <a href="https://dotnet.microsoft.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=dotnet" alt="dotnet icon" /></a>
+  <a href="https://www.java.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=java" alt="java icon" /></a>
 </p>
 
 <p align="left">
@@ -27,13 +27,13 @@
   <a href="https://www.mysql.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=mysql" alt="mysql icon" /></a>
   <a href="https://www.sqlite.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=sqlite" alt="sqlite icon" /></a>
   <a href="https://www.sqlite.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=sqlserver" alt="sqlserver icon" /></a>
+  <a href="https://redis.io/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=redis" alt="redis icon" /></a>
 </p>
 
 <p align="left">
   <a href="https://code.visualstudio.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=vscode" alt="vscode icon" /></a>
   <a href="https://visualstudio.microsoft.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=visualstudio" alt="visual studio icon" /></a>
   <a href="https://www.jetbrains.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=intellijidea" alt="intellij idea icon" /></a>
-  <a href="https://redis.io/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=redis" alt="redis icon" /></a>
   <a href="https://www.docker.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=docker" alt="docker icon" /></a>
 </p>
 
