@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Igroman4ik <a href="https://www.codewars.com/users/Igroman4ik228"><img src="https://www.codewars.com/users/Igroman4ik228/badges/micro" /></a></h1>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img width="500" src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 
 <h2 align="left">Tech Stack</h2>
