@@ -8,7 +8,14 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<img height="32" src="https://skillicons.dev/icons?i=html,css,js,ts,react,next" alt="Frontend" />
+<p align="left">
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" />
+  <img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" />
+</p>
 
 <img height="32" src="https://skillicons.dev/icons?i=python,java,dotnet" alt="Backend" />
 
