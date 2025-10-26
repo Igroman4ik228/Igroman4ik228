@@ -17,7 +17,11 @@
   <a href="https://nextjs.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" /></a> 
 </p>
 
-<img height="32" src="https://skillicons.dev/icons?i=python,java,dotnet" alt="Backend" />
+<p align="left">
+  <a href="https://www.python.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=python" alt="python icon" /></a>
+  <a href="https://www.java.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=java" alt="java icon" /></a>
+  <a href="https://dotnet.microsoft.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet icon" /></a>
+</p>
 
 <img height="32" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
 
@@ -27,7 +31,7 @@
 
 <b>Future...<b>
 <p align="left">
-  <img height="32" src="https://skillicons.dev/icons?i=solidjs,flutter,graphql,rust" alt="Backend" />
+  <img height="32" src="https://skillicons.dev/icons?i=solidjs,flutter,graphql,rust" alt="" />
 </p>
 
 
