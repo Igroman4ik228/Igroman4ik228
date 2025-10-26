@@ -12,7 +12,7 @@
   <a href="https://sass-lang.com/"><img height="42" width="42" src="https://skillicons.dev/icons?i=scss" alt="scss icon" /></a>
   <a href="https://ecma-international.org/"><img height="42" width="42" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
   <a href="https://www.typescriptlang.org/"><img height="42" width="42" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" /></a>
-  <a href="https://react.dev/"><img height="42" width="42" src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
+  <a href="https://react.dev/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=react" alt="react icon" /></a>
   <a href="https://nextjs.org/"><img height="42" width="42" src="https://skillicons.dev/icons?i=next" alt="next icon" /></a> 
 </p>
 
