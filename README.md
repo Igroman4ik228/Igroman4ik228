@@ -20,7 +20,7 @@
 
 <b>Future...<b>
 <p align="left">
-  <img height="32" src="https://skillicons.dev/icons?i=solidjs,flutter,graphql" alt="Backend" />
+  <img height="32" src="https://skillicons.dev/icons?i=solidjs,flutter,graphql,rust" alt="Backend" />
 </p>
 
 
