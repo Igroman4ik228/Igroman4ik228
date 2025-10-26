@@ -7,7 +7,7 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=scss" alt="scss icon" /></a>
   <a href="https://ecma-international.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
