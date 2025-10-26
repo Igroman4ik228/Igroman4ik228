@@ -1,16 +1,15 @@
-<h1 align="left">Hi 👋, I'm Igroman4ik</h1>
+<h1 align="left">Hi 👋, I'm Igroman4ik <a href="https://www.codewars.com/users/Igroman4ik228"><img src="https://www.codewars.com/users/Igroman4ik228/badges/micro" /></a></h1>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width="500" src="https://streak-stats.demolab.com?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
-
-<img src="https://www.codewars.com/users/Igroman4ik228/badges/micro" />
 
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
   <a href="https://html.spec.whatwg.org/multipage/"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
   <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://skillicons.dev/icons?i=scss" alt="scss icon" /></a>
   <a href="https://ecma-international.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
   <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" /></a>
   <a href="https://react.dev/"><img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
@@ -23,10 +22,17 @@
   <a href="https://dotnet.microsoft.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet icon" /></a>
 </p>
 
-<img height="32" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+<p align="left">
+  <a href="https://www.postgresql.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=postgres" alt="postgres icon" /></a>
+  <a href="https://www.mysql.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=mysql" alt="mysql icon" /></a>
+  <a href="https://www.sqlite.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite icon" /></a>
+</p>
 
 <p align="left">
-  <img height="32" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" alt="Databases" />
+  <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" alt="vscode icon" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio icon" /></a>
+  <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=idea" alt="idea icon" /></a>
+  <a href="https://www.docker.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=docker" alt="docker icon" /></a>
 </p>
 
 <b>Future...<b>
