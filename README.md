@@ -9,16 +9,12 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <a href="https://www.w3.org/">
-    <img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" />
-  </a>
-  <a href="https://www.w3.org/">
-    <img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" />
-  </a>
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" />
+  <a href="https://html.spec.whatwg.org/multipage/"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
+  <a href="https://ecma-international.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
+  <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" /></a>
+  <a href="https://react.dev/"><img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
+  <a href="https://nextjs.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" /></a> 
 </p>
 
 <img height="32" src="https://skillicons.dev/icons?i=python,java,dotnet" alt="Backend" />
