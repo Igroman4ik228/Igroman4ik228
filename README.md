@@ -37,7 +37,10 @@
 
 <b>Future...<b>
 <p align="left">
-  <img height="32" src="https://skillicons.dev/icons?i=solidjs,flutter,graphql,rust" alt="" />
+  <a href="https://www.solidjs.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=solidjs" alt="solidjs icon" /></a>
+  <a href="https://flutter.dev/"><img height="32" width="32" src="https://skillicons.dev/icons?i=flutter" alt="flutter icon" /></a>
+  <a href="https://graphql.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=graphql" alt="graphql icon" /></a>
+  <a href="https://rust-lang.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=rust" alt="rust icon" /></a>
 </p>
 
 
