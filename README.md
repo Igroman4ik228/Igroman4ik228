@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.sqlite.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=sqlserver" alt="sqlserver icon" /></a>
+  <a href="http://www.microsoft.com/sqlserver"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=sqlserver" alt="sqlserver icon" /></a>
   <a href="https://www.mysql.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=mysql" alt="mysql icon" /></a>
   <a href="https://redis.io/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=redis" alt="redis icon" /></a>
   <a href="https://www.postgresql.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=postgresql" alt="postgres icon" /></a>
