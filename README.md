@@ -9,8 +9,12 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" />
+  <a href="https://www.w3.org/">
+    <img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" />
+  </a>
+  <a href="https://www.w3.org/">
+    <img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" />
+  </a>
   <img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" />
   <img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" />
   <img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" />
