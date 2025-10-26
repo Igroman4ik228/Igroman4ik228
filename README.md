@@ -7,32 +7,32 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <a href="https://html.spec.whatwg.org/multipage/"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://skillicons.dev/icons?i=scss" alt="scss icon" /></a>
-  <a href="https://ecma-international.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
-  <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" /></a>
-  <a href="https://react.dev/"><img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
-  <a href="https://nextjs.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" /></a> 
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=scss" alt="scss icon" /></a>
+  <a href="https://ecma-international.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=js" alt="javascript icon" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=ts" alt="typescript icon" /></a>
+  <a href="https://react.dev/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=next" alt="next icon" /></a> 
 </p>
 
 <p align="left">
-  <a href="https://www.python.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=python" alt="python icon" /></a>
-  <a href="https://www.java.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=java" alt="java icon" /></a>
-  <a href="https://dotnet.microsoft.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet icon" /></a>
+  <a href="https://www.python.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=python" alt="python icon" /></a>
+  <a href="https://www.java.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=java" alt="java icon" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet icon" /></a>
 </p>
 
 <p align="left">
-  <a href="https://www.postgresql.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=postgres" alt="postgres icon" /></a>
-  <a href="https://www.mysql.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=mysql" alt="mysql icon" /></a>
-  <a href="https://www.sqlite.org/"><img height="32" width="32" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite icon" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=postgres" alt="postgres icon" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=mysql" alt="mysql icon" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=sqlite" alt="sqlite icon" /></a>
 </p>
 
 <p align="left">
-  <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" alt="vscode icon" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio icon" /></a>
-  <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=idea" alt="idea icon" /></a>
-  <a href="https://www.docker.com/"><img height="32" width="32" src="https://skillicons.dev/icons?i=docker" alt="docker icon" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=vscode" alt="vscode icon" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=visualstudio" alt="visual studio icon" /></a>
+  <a href="https://www.jetbrains.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=idea" alt="idea icon" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img height="32" width="32" src="https://skillicons.dev/icons?i=docker" alt="docker icon" /></a>
 </p>
 
 <b>Future...<b>
