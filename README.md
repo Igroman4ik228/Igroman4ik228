@@ -7,8 +7,8 @@
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-  <a href="https://html.spec.whatwg.org/multipage/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=html" alt="html icon" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=css" alt="css icon" /></a>
+  <a href="https://html.spec.whatwg.org/multipage/"><img height="42" width="42" src="https://skillicons.dev/icons?i=html" alt="html icon" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img height="42" width="42" src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
   <a href="https://sass-lang.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=sass" alt="sass icon" /></a>
   <a href="https://ecma-international.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=js" alt="javascript icon" /></a>
   <a href="https://www.typescriptlang.org/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=ts" alt="typescript icon" /></a>
