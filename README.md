@@ -1,10 +1,5 @@
 <h1 align="left">Hey There 👋 <a href="https://www.codewars.com/users/Igroman4ik228"><img src="https://www.codewars.com/users/Igroman4ik228/badges/micro" /></a></h1>
 
-<!-- <p align="left">
-  <a href="https://github.com/Igroman4ik228"><img src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
-  <a href="https://github.com/Igroman4ik228"><img src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228" alt="GitHub Streak" /></a>
-</p> -->
-
 <p align="left">
   <a href="https://github.com/Igroman4ik228">
     <picture>
