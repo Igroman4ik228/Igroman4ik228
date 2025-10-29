@@ -5,7 +5,7 @@
     <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB">
+      srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0d1117&currStreakLabel=EBEBEB">
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&currStreakLabel=1e1e1e">
