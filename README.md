@@ -7,9 +7,8 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228">
-    <img src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" alt="GitHub Streak" >
+    <source srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228" alt="GitHub Streak">
   </picture>
 </p>
 
