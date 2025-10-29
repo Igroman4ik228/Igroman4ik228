@@ -6,17 +6,19 @@
 </p> -->
 
 <p align="left">
-  <picture>
+  <a href="https://github.com/Igroman4ik228">
+    <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB">
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228">
+      srcset="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&currStreakLabel=1e1e1e">
     <img 
-      src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228" 
+      src="https://github-readme-streak-stats-one-lovat.vercel.app?user=Igroman4ik228&theme=dark&background=0D1117&currStreakLabel=EBEBEB" 
       alt="GitHub Streak">
   </picture>
+  </a>
 </p>
 
 <h2 align="left">Tech Stack</h2>
