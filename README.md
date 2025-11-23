@@ -50,7 +50,7 @@
   <a href="https://www.docker.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=docker" alt="docker icon" /></a>
 </p>
 
-<b>Future...<b>
+<b>In Future...<b>
 <p align="left">
   <a href="https://www.solidjs.com/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=solidjs" alt="solidjs icon" /></a>
   <a href="https://flutter.dev/"><img height="42" width="42" src="https://skills.syvixor.com/api/icons?i=flutter" alt="flutter icon" /></a>
