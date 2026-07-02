@@ -26,7 +26,8 @@
   <a href="https://ecma-international.org/"><img src="https://skills.syvixor.com/api/icons?i=js" height="42" alt="javascript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skills.syvixor.com/api/icons?i=ts" height="42" alt="typescript" /></a>
   <a href="https://react.dev/"><img src="https://skills.syvixor.com/api/icons?i=react" height="42" alt="react" /></a>
-  <a href="https://nextjs.org/"><img src="https://skills.syvixor.com/api/icons?i=nextjs" height="42" alt="nextjs" /></a>
+  <a href="https://vite.dev/"><img src="https://skills.syvixor.com/api/icons?i=vite" height="42" alt="vite" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/"><img src="https://skills.syvixor.com/api/icons?i=vitepwa" height="42" alt="pwa" /></a>
 </p>
 
 <p align="left">
@@ -53,6 +54,8 @@
 <b>In Future...</b>
 
 <p align="left">
+  <a href="https://nextjs.org/"><img src="https://skills.syvixor.com/api/icons?i=nextjs" height="42" alt="nextjs" /></a>
+  <a href="https://vuejs.org/"><img src="https://skills.syvixor.com/api/icons?i=vuejs" height="42" alt="vuejs" /></a>
   <a href="https://www.solidjs.com/"><img src="https://skills.syvixor.com/api/icons?i=solidjs" height="42" alt="solidjs" /></a>
   <a href="https://flutter.dev/"><img src="https://skills.syvixor.com/api/icons?i=flutter" height="42" alt="flutter" /></a>
   <a href="https://rust-lang.org/"><img src="https://skills.syvixor.com/api/icons?i=rust" height="42" alt="rust" /></a>
