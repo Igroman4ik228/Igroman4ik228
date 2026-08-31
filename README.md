@@ -32,35 +32,35 @@
 </p>
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://skills.syvixor.com/api/icons?i=python" height="42" alt="python" /></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://skills.syvixor.com/api/icons?i=dotnet" height="42" alt="dotnet" /></a>
+  <a href="https://www.python.org/"><img src="https://skills.syvixor.com/api/icons?i=python" height="42" alt="python" /></a>
   <a href="https://www.java.com/"><img src="https://skills.syvixor.com/api/icons?i=java" height="42" alt="java" /></a>
 </p>
 
 <p align="left">
-  <a href="http://www.microsoft.com/sqlserver"><img src="https://skills.syvixor.com/api/icons?i=sqlserver" height="42" alt="sqlserver" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skills.syvixor.com/api/icons?i=mysql" height="42" alt="mysql" /></a>
-  <a href="https://redis.io/"><img src="https://skills.syvixor.com/api/icons?i=redis" height="42" alt="redis" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skills.syvixor.com/api/icons?i=postgresql" height="42" alt="postgresql" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skills.syvixor.com/api/icons?i=mysql" height="42" alt="mysql" /></a>
+  <a href="http://www.microsoft.com/sqlserver"><img src="https://skills.syvixor.com/api/icons?i=sqlserver" height="42" alt="sqlserver" /></a>
   <a href="https://www.sqlite.org/"><img src="https://skills.syvixor.com/api/icons?i=sqlite" height="42" alt="sqlite" /></a>
+  <a href="https://redis.io/"><img src="https://skills.syvixor.com/api/icons?i=redis" height="42" alt="redis" /></a>
 </p>
 
 <p align="left">
+  <a href="https://www.docker.com/"><img src="https://skills.syvixor.com/api/icons?i=docker" height="42" alt="docker" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skills.syvixor.com/api/icons?i=vscode" height="42" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://skills.syvixor.com/api/icons?i=visualstudio" height="42" alt="visualstudio" /></a>
   <a href="https://www.jetbrains.com/"><img src="https://skills.syvixor.com/api/icons?i=intellijidea" height="42" alt="intellijidea" /></a>
-  <a href="https://www.docker.com/"><img src="https://skills.syvixor.com/api/icons?i=docker" height="42" alt="docker" /></a>
 </p>
 
 <b>In Future...</b>
 
 <p align="left">
+  <a href="https://graphql.org/"><img src="https://skills.syvixor.com/api/icons?i=graphql" height="42" alt="graphql" /></a>
   <a href="https://nextjs.org/"><img src="https://skills.syvixor.com/api/icons?i=nextjs" height="42" alt="nextjs" /></a>
   <a href="https://vuejs.org/"><img src="https://skills.syvixor.com/api/icons?i=vuejs" height="42" alt="vuejs" /></a>
   <a href="https://www.solidjs.com/"><img src="https://skills.syvixor.com/api/icons?i=solidjs" height="42" alt="solidjs" /></a>
   <a href="https://flutter.dev/"><img src="https://skills.syvixor.com/api/icons?i=flutter" height="42" alt="flutter" /></a>
   <a href="https://rust-lang.org/"><img src="https://skills.syvixor.com/api/icons?i=rust" height="42" alt="rust" /></a>
-  <a href="https://graphql.org/"><img src="https://skills.syvixor.com/api/icons?i=graphql" height="42" alt="graphql" /></a>
 </p>
 
 <!-- <h2 align="left">Social</h2>
