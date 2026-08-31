@@ -28,6 +28,7 @@
   <a href="https://react.dev/"><img src="https://skills.syvixor.com/api/icons?i=react" height="42" alt="react" /></a>
   <a href="https://vite.dev/"><img src="https://skills.syvixor.com/api/icons?i=vite" height="42" alt="vite" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/"><img src="https://skills.syvixor.com/api/icons?i=vitepwa" height="42" alt="pwa" /></a>
+  <a href="https://astro.build/"><img src="https://skills.syvixor.com/api/icons?i=astro" height="42" alt="astro" /></a>
 </p>
 
 <p align="left">
